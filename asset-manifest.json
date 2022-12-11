@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Heroes-Spa/static/css/main.e6c13ad2.css",
+    "main.js": "/Heroes-Spa/static/js/main.3246a27f.js",
+    "index.html": "/Heroes-Spa/index.html",
+    "main.e6c13ad2.css.map": "/Heroes-Spa/static/css/main.e6c13ad2.css.map",
+    "main.3246a27f.js.map": "/Heroes-Spa/static/js/main.3246a27f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3246a27f.js"
+  ]
+}
